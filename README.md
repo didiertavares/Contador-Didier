@@ -1,2 +1,3 @@
 # Contador Didier
-Contador feito do zero com pesquisa própria
+feito do zero com pesquisa própria.
+arquivo contém minha versão da tarefa CONTADOR DE CLIQUES, realizada com a 2ª opção de funcção - getElementbyId - após pesquisa própria, antes de ser apresentada na videoaula referente.
